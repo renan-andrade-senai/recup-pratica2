@@ -1,0 +1,44 @@
+{
+  "jogos": [
+    {
+      "id": 1,
+      "titulo": "God of War Ragnarök",
+      "plataforma": "PS5",
+      "genero": "Ação/Aventura",
+      "anoLancamento": 2022,
+      "disponivel": true
+    },
+    {
+      "id": 2,
+      "titulo": "Halo Infinite",
+      "plataforma": "Xbox Series X",
+      "genero": "FPS",
+      "anoLancamento": 2021,
+      "disponivel": false
+    },
+    {
+      "id": 3,
+      "titulo": "The Legend of Zelda: Tears of the Kingdom",
+      "plataforma": "Nintendo Switch",
+      "genero": "Aventura/RPG",
+      "anoLancamento": 2023,
+      "disponivel": true
+    },
+    {
+      "id": 4,
+      "titulo": "Elden Ring",
+      "plataforma": "PC",
+      "genero": "RPG/Souls-like",
+      "anoLancamento": 2022,
+      "disponivel": false
+    },
+    {
+      "id": 5,
+      "titulo": "FIFA 24",
+      "plataforma": "PS5",
+      "genero": "Esporte",
+      "anoLancamento": 2023,
+      "disponivel": true
+    }
+  ]
+}
