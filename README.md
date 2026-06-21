@@ -167,3 +167,9 @@ A aplicação se comunicará com uma API simulada localmente usando o **JSON Ser
   Você **não** precisa criar nem modificar a API.
 - ⏱️ Gerencie bem o seu tempo — comece pelas partes que você tem mais domínio.
 - 🔍 Leia **todos os requisitos** antes de começar a implementar.
+
+# Imagens
+![home](home.png)
+![lista](lista.png)
+![novo](novo.png)
+![editar](editar.png)
